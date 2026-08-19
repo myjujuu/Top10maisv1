@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: hsl(311, 60%, 74%);
+    color: rgb(157, 18, 175);
+}
+
+#Maxton Hall {
+    width: 5% height: 5%
+}
+
+#All American {
+    width: 5% height: 5%
+}
+
+#Grey's Anatomy{ 
+ width: 5% height: 5%
+}
+
+#Ginny & Georgia {
+    width: 5% height: 5%
+}
+
+#Minha vida com a família Walter {
+    width: 5% height: 5%
+}
+
+#O verão que mudou a minha vida {
+    width: 5% height: 5%
+}
+
+#Turbulências de Verão {
+    width: 5% height: 5%
+}
+
+# Amores Improváveis {
+    width: 5% height: 5%
+}
+
+# Chicago P.D. {
+    width: 5% height: 5%
+}
+
+# Outer Banks {
+    width: 5% height: 5%
+}
+body:hover{
+    background-color: aqua;
+}
+img{
+    opacity: 1;
+}
+img:hover{
+    opacity: 1;
+    border: 2px pink;
+    zoom: 1.25;
+}
